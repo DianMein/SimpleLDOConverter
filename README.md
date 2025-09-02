@@ -1,5 +1,5 @@
 ## Hardware Design Overview
-
+[Watch the Altium Designer Quick-Start Tutorial](https://www.youtube.com/watch?v=YTGzncKU5RY)
 ### **Schematic Diagram**
 <img src="https://github.com/user-attachments/assets/5745b9d9-e592-45d7-8b02-0750a2dd9c9b" alt="Schematic Diagram" width="800" />
 
